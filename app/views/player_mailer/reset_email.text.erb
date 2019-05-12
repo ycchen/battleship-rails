@@ -1,0 +1,5 @@
+Dear <%= @player.name %>,
+
+Click here to reset your Battleship password:
+
+<%= reset_url(token: @player.password_token) %>

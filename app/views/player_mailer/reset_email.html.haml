@@ -1,0 +1,9 @@
+%h1
+  Dear #{@player.name},
+%p
+  Click here to reset your Battleship password:
+  %br/
+  %br/
+  = reset_url(token: @player.password_token)
+  %br/
+  %br/
