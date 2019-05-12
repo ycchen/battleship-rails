@@ -23,7 +23,7 @@ Open [http://localhost:3000](http://localhost:3000).  w0oh0o! :)
 
 ## Status
 
-[![Build Status](https://travis-ci.org/gdonald/battlsehip-rails.svg?branch=master)](https://travis-ci.org/gdonald/battlsehip-rails)
+[![Build Status](https://travis-ci.org/gdonald/battleship-rails.svg?branch=master)](https://travis-ci.org/gdonald/battleship-rails)
 
 ## License
 
