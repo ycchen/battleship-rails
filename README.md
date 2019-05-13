@@ -27,4 +27,4 @@ Open [http://localhost:3000](http://localhost:3000).  w0oh0o! :)
 
 ## License
 
-CRM is released under the [MIT License](http://www.opensource.org/licenses/MIT)
+Battleship is released under the [MIT License](http://www.opensource.org/licenses/MIT)
